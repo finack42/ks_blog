@@ -1,0 +1,307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"orange",
+				"orange3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageRes",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 299.0,
+		"history":
+		[
+			"ls",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/david/Downloads/domains.txt",
+		"/Users/david/Downloads/windows.tf",
+		"/Users/david/Downloads/variables.tf",
+		"/Users/david/Downloads/goad.tf",
+		"/Users/david/Downloads/main.tf",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Konux/notes.txt",
+		"/Users/david/Downloads/iptables-backup.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Lolyo/sqlmap-attempts.txt",
+		"/Users/david/Downloads/c2-telegram.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Corporate Identity - Marke/Webseite-Redesign/david-texte.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Lolyo/login1.txt",
+		"/Users/david/Downloads/traffic.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/Temp Sharing/imported_patch.yml",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/temp.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Trumer/temp.txt",
+		"/Users/david/Downloads/amsi-bypass.txt",
+		"/Users/david/Library/Application Support/Sublime Text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/nmap-sql.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/certify.txt",
+		"/Users/david/Downloads/data.json",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/ne_gpp_output_ad.senecura.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/serverliste2_SeCu.xml",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/adcs-certipy.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/certi.py-output.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/serverliste3.xml",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/serverliste1.xml",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/OUs.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/sentinelone_server_install.cmd.c",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/SeneCura/sentinelone_installer.bat",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Trumer/infos_steff.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Trumer/lsa_dump.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Trumer/sekurlsa_logonpasswords.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Trumer/lsass_dump.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/temp-notes.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/Social Engineering/ms.log",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/Social Engineering/email-spoofing.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/Social Engineering/email-addresses.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/Social Engineering/text-kontaktformular.txt",
+		"/Users/david/Downloads/test.txt",
+		"/Users/david/Downloads/temp.txt",
+		"/Users/david/Downloads/Program.cs",
+		"/Users/david/Downloads/a179c4093d05a3e1ee73f6ff07f994a.c",
+		"/Users/david/Downloads/ne_gpp_output_adswiberg.lan.wiberg.at.txt",
+		"/Users/david/Downloads/monitoring-ssh.sh",
+		"/Users/david/Downloads/reverse-ssh.service",
+		"/Users/david/Downloads/reverse-ssh.sh",
+		"/Users/david/Downloads/stunnel.conf",
+		"/Users/david/Downloads/open-firewall.sh",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/Replace_CrowdStrike_IFF.ps1",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/oudated_servers.txt",
+		"/Users/david/Downloads/win2003.json",
+		"/Users/david/Downloads/cryptbb.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/email-spoofing.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/NovaTaste/kerberoast_hashes_adswiberg.lan.wiberg.at.txt",
+		"/Users/david/Downloads/adcs.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Awareness/Classroom Awareness Schulung/David-Dateien/Ducky Scripts/webreq_user_hostname.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/temp_notes.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/iTWO-Audit/power-user-rights.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/iTWO-Audit/standard-user-rights.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/Habau-Recheck/pskaudit.txt",
+		"/Users/david/Downloads/ws.asp",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Lagermax/LBase/stacktrace-error.txt",
+		"/Users/david/Downloads/Q29udHJvbGxlci5pVFdPIDIwMjM-(1).ica",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/Backup/nmap-10.40.10.4.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/Backup/nmap-10.10.10.239.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/Backup/nmap-backupserver.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/Backup/req1.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/commvault-backup-server-IPs.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/shares.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/IT Security/OSEP_PEN-300/OSEP_useful_commands.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/powerview-queries.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/PSPKIAudit.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/sqlmap-wordlist.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/2024/kerberoasting.hashes",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Comtech/temp_notes.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Comtech/sonarscanner_notes.txt",
+		"/Users/david/IT-Security/CLI-Tools/ObfuscatedScripts/sh1.ps1",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Awareness/2b-aware/Scripts & Co/burp-proxy-strings.txt",
+		"/Users/david/Downloads/bc.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Kundendokumente/Security Checks/Comtech/company-switch-allowed-req.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Awareness/2b-aware/Scripts & Co/feedback.txt",
+		"/Users/david/Downloads/set-cookie.html",
+		"/Users/david/Downloads/erb-template.txt",
+		"/Users/david/Downloads/headers.txt",
+		"/Users/david/Downloads/ws.rb",
+		"/Users/david/Downloads/amazon_filme.txt",
+		"/Users/david/Downloads/MagiskTrustUserCerts-master/post-fs-data.sh",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Awareness/2b-aware/Content/sosafe_module.txt",
+		"/Users/david/Downloads/Pending for payment..eml",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersGmbH/mindsetters - OneDrive/Digital Marketing/Blogs/Blog 4 - Baramundi MDM/bo.c",
+		"/Users/david/Downloads/intro-text-leistungen.txt",
+		"/Users/david/Downloads/pwd.txt",
+		"/Users/david/Downloads/req.txt",
+		"/Users/david/Downloads/req2.txt",
+		"/Users/david/Downloads/color_codes.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/pw.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/ensilo_uninstall.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/temp_notes.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/IT Security/OSEP_PEN-300/OSEP_useful_commands.txt",
+		"/Users/david/Downloads/WordlistsLocal/spns_all.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/hb_creds_all.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/spn_user.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/mimikatz_creds.txt",
+		"/Users/david/Library/CloudStorage/OneDrive-mindsettersOG/mindsetters - OneDrive/Kundendokumente/Security Checks/Habau/HG7001022300.ini",
+		"/Users/david/Downloads/mk.ps1",
+		"/Users/david/Downloads/pv.psm1",
+		"/Users/david/Downloads/pu.ps1",
+		"/Users/david/Downloads/sp12.ps1",
+		"/Users/david/Downloads/sp11.ps1",
+		"/Users/david/Downloads/sp10.ps1",
+		"/Users/david/Downloads/sp9.ps1",
+		"/Users/david/Downloads/sp8.ps1",
+		"/Users/david/Downloads/sp7.ps1",
+		"/Users/david/Downloads/sp6.ps1",
+		"/Users/david/Downloads/sp4.ps1",
+		"/Users/david/Downloads/sp3.ps1",
+		"/Users/david/Downloads/sp2.ps1",
+		"/Users/david/Downloads/sp.ps1",
+		"/Users/david/Downloads/SharpHound.ps1"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "2024-12-23-welcome-to-jekyll.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
